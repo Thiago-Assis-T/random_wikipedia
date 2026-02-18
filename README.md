@@ -1,4 +1,4 @@
-# Random Wikipedia Reader
+# Random Wikipedia
 
 A Flutter web application that fetches a random Wikipedia article and keeps a history of articles you've read. Built with strict linting rules to ensure code quality and consistency.
 
@@ -20,7 +20,7 @@ A Flutter web application that fetches a random Wikipedia article and keeps a hi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/random_wikipedia_reader.git
-   cd random_wikipedia_reader
+   git clone https://github.com/Thiago-Assis-T/random_wikipedia.git
+   cd random_wikipedia
    ```
 
