@@ -1,1 +1,8 @@
-include: package:flutter_lints/flutter.yaml
+include: package:strict/analysis_options.yaml
+analyzer:
+  errors:
+    flutter_style_todos: ignore
+linter:
+  rules:
+    flutter_style_todos: true
+
